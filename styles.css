@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  height: 100%;
+}
+
+body {
+  height: inherit;
+  font-family: 'Advent Pro', sans-serif;
+}
+
+header {
+  text-align: center;
+  padding: 75px 0px;
+}
+
+#title {
+  font-size: 300%;
+}
+
+#subtitle {
+  padding: 1rem 0;
+  font-size: 87.125%;
+}
